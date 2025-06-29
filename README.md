@@ -16,6 +16,10 @@
 - Encrypt & Decrypt the password
 - Check for password breach through k-Anonymity method (HIBP)
 
+## Technologies used
+
+- Python, Pytest, HIBP API, PyPi, Git
+
 ## Installation
 
 ```bash
